@@ -9,24 +9,23 @@ id,name,age,gender,voiced_by
 8,Scott Malkinson,9,Male,"Matt Stone"
 9,Red,10,Female,"Mona Marshall"
 10,Powder Turner,10,Female,"Jessie Thomas"
-11,Pip Pirrup
-12,Nichole Daniels
-13,Nelly
-14,Millie Larsen
-15,Lola
-16,Kevin Stoley
-17,Jimmy Valmer
-18,Jenny Simmons
-19,Jason
-20,Heidi Turner
-21,Francis
-22,Esther
-23,Dog Poo Petuski
-24,David Rodriguez
-25,Clyde Donovan
-26,Craig Tucker
-27,Bradley Biggle
-28,Bebe Stevens
-29,Annie Knitts
-30,Wendy Testaburger
-31,Butters Scotch
+11,Pip Pirrup,9,Male,"Matt Stone"
+12,Nichole Daniels,10,Female,"Laylo Incognegro"
+13,Nelly,10,Female,"April Stewart"
+14,Millie Larsen,10,Female,"April Stewart"
+15,Lola,10,Female,"April Stewart"
+16,Kevin Stoley,9,Male,"Matt Stone"
+17,Jimmy Valmer,10,Male,"Trey Parker"
+18,Jenny Simmons,10,Female,"Mona Marshall"
+20,Heidi Turner,10,Female,"Jessica Malkinson"
+21,Francis,10,Male,"Trey Parker"
+22,Esther,9,Female,"April Stewart"
+23,Dog Poo Petuski,9,Male,"Trey Parker"
+24,David Rodriguez,10,Male,"Matt Stone"
+25,Clyde Donovan,10,Male,"Matt Stone"
+26,Craig Tucker,10,Male,"Matt Stone"
+27,Bradley Biggle,10,Male,"Matt Stone"
+28,Bebe Stevens,10,Female,"Jennifer Howell"
+29,Annie Knitts,10,Female,"April Stewart"
+30,Wendy Testaburger,9,Female,"April Stewart"
+31,Butters Scotch,10,Male,"Matt Stone"
