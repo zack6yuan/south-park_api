@@ -74,40 +74,69 @@ id,season,episode,name,directed_by,written_by,release_date
 65,4,17,"A Very Crappy Christmas","Adrien Beard","Trey Parker"
 
 # Season 5
-66,5,1,"It Hits the Fan"
-67,5,2,"Cripple Fight"
-68,5,3,"Super Best Friends"
-69,5,4,"Scott Tenorman Must Die"
-70,5,5,"Terrance and Phillip: Behind the Blow"
-71,5,6,"Cartmanland"
-72,5,7,"Proper ****** Use"
-73,5,8,"Towelie"
-74,5,9,"Osama Bin Laden has Farty Pants"
-75,5,10,"How to Eat with Your Butt"
-76,5,11,"The Entity!"
-77,5,12,"Here Comes the Neighborhood"
-78,5,13,"Kenny Dies"
-79,5,14,"Butters' Very Own Episode"
+66,5,1,"It Hits the Fan","Trey Parker","Trey Parker"
+67,5,2,"Cripple Fight","Trey Parker","Trey Parker"
+68,5,3,"Super Best Friends","Trey Parker","Trey Parker"
+69,5,4,"Scott Tenorman Must Die","Eric Stough","Trey Parker"
+70,5,5,"Terrance and Phillip: Behind the Blow","Trey Parker","Trey Parker"
+71,5,6,"Cartmanland","Trey Parker","Trey Parker"
+72,5,7,"Proper ****** Use","Trey Parker","Trey Parker"
+73,5,8,"Towelie","Trey Parker","Trey Parker"
+74,5,9,"Osama Bin Laden has Farty Pants","Trey Parker","Trey Parker"
+75,5,10,"How to Eat with Your Butt","Trey Parker","Trey Parker"
+76,5,11,"The Entity!","Trey Parker","Trey Parker"
+77,5,12,"Here Comes the Neighborhood","Eric Stough","Trey Parker"
+78,5,13,"Kenny Dies","Trey Parker","Trey Parker"
+79,5,14,"Butters' Very Own Episode","Eric Stough","Trey Parker"
 
 # Season 6
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-9
-95
-96
-97
-98
-99
-100
+80,6,1,"Jared Has Aides","Trey Parker","Trey Parker"
+81,6,2,"Asspen","Trey Parker","Trey Parker"
+82,6,3,"Freak Strike","Trey Parker","Trey Parker"
+83,6,4,"Fun with Veal","Trey Parker","Trey Parker"
+84,6,5,"The New Terrance and Phillip Movie Trailer","Trey Parker","Trey Parker"
+85,6,6,"Professor Chaos","Trey Parker","Trey Parker"
+86,6,7,"Simpsons Already Did It","Trey Parker","Trey Parker"
+87,6,8,"Red Hot Catholic Love","Trey Parker","Trey Parker"
+88,6,9,"Free Hat","Toni Nugnes","Trey Parker"
+89,6,10,"Bebe's ***** Destroy Society","Trey Parker","Trey Parker"
+90,6,11,"Child Abduction Is Not Funny","Trey Parker","Trey Parker"
+91,6,1,"A Ladder to Heaven","Trey Parker","Trey Parker"
+92,6,13,"The Return of the Fellowship of the RIng of the Two Towers","Trey Parker","Trey Parker"
+93,6,14,"The Death Camp of Tolerance","Trey Parker","Trey Parker"
+94,6,15,"The Biggest ****** In the Universe","Trey Parker","Trey Parker"
+95,6,16,"My Future Self 'n' Me","Trey Parker & Eric Stough","Trey Parker"
+96,6,17,"Red Sleigh Down","Trey Parker","Trey Parker"
+
+# Season 7
+97,7,1,"Cancelled","Trey Parker","Trey Parker"
+98,7,2,"Krazy Kripples","Trey Parker","Trey Parker"
+99,7,3,"Toilet Paper","Trey Parker","Trey Parker"
+100,7,4,"I'm a Little Bit Country","Trey Parker","Trey Parker"
+101,7,5,"Fat **** and Pancake Head","Trey Parker","Trey Parker"
+102,7,6,"Lil' Crime Stoppers","Trey Parker","Trey Parker"
+103,7,7,"Red Man's Greed","Trey Parker","Trey Parker"
+104,7,8,"South Park is ***","Trey Parker","Trey Parker"
+105,7,9,"Christian Rock Hard","Trey Parker","Trey Parker"
+106,7,10,"Grey Dawn","Trey Parker","Trey Parker"
+107,7,11,"Casa Bonita","Trey Parker","Trey Parker"
+108,7,12,"All About Mormons","Trey Parker","Trey Parker"
+109,7,13,"Butt Out","Trey Parker","Trey Parker"
+110,7,14,"Raisins","Trey Parker","Trey Parker"
+111,7,15,"It's Christmas in Canada","Trey Parker","Trey Parker"
+
+# Season 8
+112,8,1,"","",""
+113,8,2,"","",""
+114,8,3,"","",""
+115,8,4,"","",""
+116,8,5,"","",""
+117,8,6,"","",""
+118,8,7,"","",""
+119,8,8,"","",""
+120,8,9,"","",""
+121,8,10,"","",""
+122,8,11,"","",""
+123,8,12,"","",""
+124,8,13,"","",""
+125,8,14,"","",""
