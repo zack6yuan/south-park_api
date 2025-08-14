@@ -170,7 +170,7 @@ id,season,episode,name,directed_by,written_by,release_date
 149,10,10,"Miss Teacher Bangs a Boy","Trey Parker","Trey Parker"
 150,10,11,"Hell of Earth 2006","Trey Parker","Trey Parker"
 151,10,12,"Go God Go","Trey Parker","Trey Parker"
-152,10,13,""Go God Go XII,"Trey Parker","Trey Parker"
+152,10,13,"Go God Go XII","Trey Parker","Trey Parker"
 153,10,14,"Stanley's Cup","Trey Parker","Trey Parker"
 
 # Season 11
@@ -178,7 +178,7 @@ id,season,episode,name,directed_by,written_by,release_date
 155,11,2,"Cartman Sucks","Trey Parker","Trey Parker"
 156,11,3,"Lice Capades","Trey Parker","Trey Parker"
 157,11,4,"The Snuke","Trey Parker","Trey Parker"
-158,11,5,""Fantastic Easter Special,"Trey Parker","Trey Parker"
+158,11,5,"Fantastic Easter Special","Trey Parker","Trey Parker"
 159,11,6,"D-Yikes!","Trey Parker","Trey Parker"
 160,11,7,"Night of the Living Homeless","Trey Parker","Trey Parker"
 161,11,8,"Le Petit Tourette","Trey Parker","Trey Parker"
@@ -186,7 +186,7 @@ id,season,episode,name,directed_by,written_by,release_date
 163,11,10,"Imaginationland Episode I","Trey Parker","Trey Parker"
 164,11,11,"Imaginationland Episode II","Trey Parker","Trey Parker"
 175,11,12,"Imaginationland Episode III","Trey Parker","Trey Parker"
-166,11,13,""Guitar *****-O,"Trey Parker","Trey Parker"
+166,11,13,"Guitar *****-O","Trey Parker","Trey Parker"
 167,11,14,"The List","Trey Parker","Trey Parker"
 
 # Season 12
@@ -217,13 +217,13 @@ id,season,episode,name,directed_by,written_by,release_date
 190,13,9,"Butters' Bottom *****","Trey Parker","Trey Parker"
 191,13,10,"W.T.F","Trey Parker","Trey Parker"
 192,13,11,"Whale ******","Trey Parker","Trey Parker"
-193,13,12,""The F Word,"Trey Parker","Trey Parker"
+193,13,12,"The F Word","Trey Parker","Trey Parker"
 194,13,13,"Dances with Smurfs","Trey Parker","Trey Parker"
 195,13,14,"Pee","Trey Parker","Trey Parker"
 
 # Season 14
 196,14,1,"****** Healing","Trey Parker","Trey Parker"
-197,14,2,""The Tale of ******* *************,"Trey Parker","Trey Parker"
+197,14,2,"The Tale of ******* *************","Trey Parker","Trey Parker"
 198,14,3,"Medicinal Fried Chicken","Trey Parker","Trey Parker"
 199,14,4,"You Have 0 Friends","Trey Parker","Trey Parker"
 200,14,5,"200","Trey Parker","Trey Parker"
@@ -241,7 +241,7 @@ id,season,episode,name,directed_by,written_by,release_date
 210,15,1,"HumancentiPad","Trey Parker","Trey Parker"
 211,15,2,"Funnybot","Trey Parker","Trey Parker"
 212,15,3,"Royal Pudding","Trey Parker","Trey Parker"
-213,15,4,""T.M.I,"Trey Parker","Trey Parker"
+213,15,4,"T.M.I,"Trey Parker","Trey Parker"
 214,15,5,"Crack Baby Athletic Association","Trey Parker","Trey Parker"
 215,15,6,"City Sushi","Trey Parker","Trey Parker"
 216,15,7,"You're Getting Old","Trey Parker","Trey Parker"
@@ -255,7 +255,7 @@ id,season,episode,name,directed_by,written_by,release_date
 
 # Season 16
 224,16,1,"Reverse *******","Trey Parker","Trey Parker"
-225,16,2,""Cash for Gold,"Trey Parker","Trey Parker"
+225,16,2,"Cash for Gold","Trey Parker","Trey Parker"
 226,16,3,"Faith Hilling","Trey Parker","Trey Parker"
 227,16,4,"Jewpacabra","Trey Parker","Trey Parker"
 228,16,5,"Butterballs","Trey Parker","Trey Parker"
@@ -324,9 +324,9 @@ id,season,episode,name,directed_by,written_by,release_date
 281,21,4,"Franchise Prequel","Trey Parker","Trey Parker"
 282,21,5,"Humme;s & ******","Trey Parker","Trey Parker"
 283,21,6,"Sons a Witches","Trey Parker","Trey Parker"
-284,21,7,""Doubling Down,"Trey Parker","Trey Parker"
+284,21,7,"Doubling Down","Trey Parker","Trey Parker"
 285,21,8,"Moss Piglets","Trey Parker","Trey Parker"
-286,21,9,""Super Hard PCness,"Trey Parker","Trey Parker"
+286,21,9,"Super Hard PCness","Trey Parker","Trey Parker"
 287,21,10,"Splatty Tomato","Trey Parker","Trey Parker"
 
 # Season 22
@@ -363,11 +363,11 @@ id,season,episode,name,directed_by,written_by,release_date
 
 # Season 25
 312,25,1,"Pajama Day","Trey Parker","Trey Parker"
-313,25,2,""The Big Fix,"Trey Parker","Trey Parker"
+313,25,2,"The Big Fix","Trey Parker","Trey Parker"
 314,25,3,"City People","Trey Parker","Trey Parker"
 315,25,4,"Back to the Cold War","Trey Parker","Trey Parker"
 316,25,5,"Help, My Teenager Hates Me!","Trey Parker","Trey Parker"
-317,25,6,"Credigree Weed St. Patrick's Day Special","Trey Parker",Trey Parker""
+317,25,6,"Credigree Weed St. Patrick's Day Special","Trey Parker","Trey Parker"
 
 # Specials (2022)
 318,"2022 Specials",1,"South Park The Streaming Wars","Trey Parker","Trey Parker"
