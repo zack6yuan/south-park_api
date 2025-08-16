@@ -17,6 +17,12 @@ def get_episodes():
     with conn.cursor(cursor_factory=RealDictCursor) as cur:
         cur.execute("SELECT * FROM episodes;")
         return jsonify(cur.fetchall())
+    
+@app.route("/celebrities", methods=["GET"])
+def get_celebrities():
+    with conn.cursor(cursor_factory=RealDictCursor) as cur:
+        cur.execute("SELECT * FROM celebrities;")
+        return jsonify(cur.fetchall())
 
 if __name__ == "__main__":
     app.run(debug=True)
